@@ -1,4 +1,4 @@
-## Timely
+## ⏰ Timely
 
 A barely functional todo app built with Next.js and MongoDB.
 
