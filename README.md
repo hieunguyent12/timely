@@ -2,4 +2,4 @@
 
 A barely functional todo app built with Next.js and MongoDB.
 
-Warning: the repo contains dangerously written code, view at your own risk.
+Warning: the repo contains dangerously bad code, view at your own risk.
